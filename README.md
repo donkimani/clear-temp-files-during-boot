@@ -1,0 +1,1 @@
+# clear-temp-files-during-boot
